@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-275264354-1692798810110
+- identifier: da78acaf-5ca8-415c-859a-df5a6f334782
   name: Online Course
-  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.481x+1T2021/about
+  pageRef: /external-resources/online-course_da78acaf-5ca8-415c-859a-df5a6f334782
   weight: 10
