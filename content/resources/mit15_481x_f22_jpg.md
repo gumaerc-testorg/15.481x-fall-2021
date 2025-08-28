@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/adaptive-markets-financial-market-dynamics-and-human-behavior/mit15_481x_f22.jpg
+file: /ol-ocw-studio-app/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/mit15_481x_f22.jpg
 file_size: 146108
 file_type: image/jpeg
 image_metadata:
