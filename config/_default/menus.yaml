@@ -3,3 +3,7 @@ leftnav:
   name: Online Course
   pageRef: /external-resources/online-course_73038e9e-117e-44b3-9cb4-953d148fb6b4
   weight: 10
+- identifier: 99bbbc84-9531-406d-a6b5-031d2c287c92
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
